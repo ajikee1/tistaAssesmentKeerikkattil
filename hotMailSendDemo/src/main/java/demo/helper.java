@@ -23,6 +23,7 @@ public class helper {
 	}
 
 	public void openUrl(String url) {
+		
 		driver.get(url);
 	}
 
