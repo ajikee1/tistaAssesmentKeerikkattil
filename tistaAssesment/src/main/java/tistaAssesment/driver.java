@@ -17,7 +17,7 @@ public class driver {
 		String output = secB.removeHeadAndTail("Constantinople");
 		System.out.println("String with head and tail removed: " + output);
 		
-		/* Removing negative integers from an array */
+		/* Removing negative integers from a list */
 		List<Integer> input = new ArrayList<Integer>();
 		input.add(0);
 		input.add(4);
